@@ -1,0 +1,5 @@
+name: olimjon_sn
+on: [push]
+jobs:
+  steps:
+    - run: echo "HI"
