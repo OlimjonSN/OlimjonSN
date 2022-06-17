@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid-2.gif" alt="Hi, I'm Olimjon 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/OlimjonSN/OlimjonSN/blob/main/vid-2.gif" alt="Hi, I'm Olimjon 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 ### Howdy! 👋
 
