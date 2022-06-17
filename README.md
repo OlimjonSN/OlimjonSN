@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid-2.gif" alt="Hi, I'm Olimjon 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 ### Howdy! 👋
 
 ⚡ I'm Olimjon Yakhshiboev, from region Samarkand, in the northwest of Uzbekiston (Middle Asia). I'm an Mobile Developer and Designer.
