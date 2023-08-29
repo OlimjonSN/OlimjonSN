@@ -7,7 +7,7 @@
 
 💬 Ask me about anything related to online training in Uzbekiston, which is what I do for a living. 
 
-- 🌱 I’m currently learning - Dart, Flutter, Python
+- 🌱 I’m currently learning - Dart, Flutter
 - 😄 Pronouns: He/him
 
 📫 You can reach me through:
